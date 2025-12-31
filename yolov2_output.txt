@@ -1,0 +1,25 @@
+ GPU isn't used 
+mini_batch = 1, batch = 1, time_steps = 1, train = 0 
+
+ reorg_old 
+
+ seen 32, trained: 32013 K-images (500 Kilo-batches_64) 
+ Detection layer: 31 - type = 27 
+/content/test2.jpeg: Predicted in 11690.443000 milli-seconds.
+traffic light: 37%	(left_x:   36   top_y:  264   width:   19   height:   37)
+person: 49%	(left_x:   46   top_y:  380   width:   51   height:   82)
+person: 33%	(left_x:   78   top_y:  355   width:  496   height:   51)
+person: 26%	(left_x:  168   top_y:  371   width:   14   height:   36)
+traffic light: 47%	(left_x:  232   top_y:  293   width:   11   height:   25)
+bus: 60%	(left_x:  237   top_y:  348   width:   89   height:   35)
+car: 60%	(left_x:  245   top_y:  375   width:   63   height:   42)
+bus: 27%	(left_x:  245   top_y:  356   width:   74   height:   55)
+car: 30%	(left_x:  312   top_y:  366   width:   42   height:   46)
+bus: 28%	(left_x:  329   top_y:  364   width:   43   height:   44)
+car: 26%	(left_x:  329   top_y:  364   width:   43   height:   44)
+person: 70%	(left_x:  456   top_y:  370   width:   34   height:   74)
+car: 26%	(left_x:  508   top_y:  372   width:   21   height:   26)
+truck: 69%	(left_x:  525   top_y:  362   width:   71   height:   59)
+traffic light: 45%	(left_x:  596   top_y:  194   width:   23   height:   26)
+person: 41%	(left_x:  599   top_y:  372   width:   30   height:   72)
+person: 61%	(left_x:  611   top_y:  368   width:   37   height:   92)
